@@ -1,5 +1,6 @@
 # Lab 8 - Starter
 
+Name: Oliver Korchnoy
 Note: Screenshots in Screenshots folder
 
 1. Within a Github action that runs whenever code is pushed. We do this to automate our testing everytime our existing software based on certain events, in this case when we push our code to ensure that changes are functional.
